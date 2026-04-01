@@ -88,3 +88,7 @@ Script ini dibuat untuk keperluan **monitoring dan audit keamanan sistem sendiri
 ## 📄 License
 
 MIT License
+
+---
+Translate :
+Indonesia Language
